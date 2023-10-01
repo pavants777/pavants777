@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavan Gowda T S</h1>
 <h3 align="center">A passionate Full Stack App developer from India</h3>
-<img align="center" alt="coding" width="400" src="https://storage.googleapis.com/cms-storage-bucket/70760bf1e88b184bb1bc.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavants777&label=Profile%20views&color=0e75b6&style=flat" alt="pavants777" /> </p>
 
