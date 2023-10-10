@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Random_Number_Generator**
 
-- 🌱 I’m currently learning **Flutter,Node.js,etc...**
+- 🌱 I’m currently learning **DSA,Flutter,etc...**
 
 - 💬 Ask me about **Coding....**
 
