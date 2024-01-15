@@ -40,8 +40,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/pavants777"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pavants777" /></a><a href="https://ko-fi.com/pavants777"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pavants777" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavants777&show_icons=true&locale=en&layout=compact" alt="pavants777" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavants777&show_icons=true&locale=en" alt="pavants777" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavants777&" alt="pavants777" /></p>
