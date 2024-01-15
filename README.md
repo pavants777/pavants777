@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Application of Computers**
 
-- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1cqQxCZ8R79Ana1q__tD0HKBmPm72UKmZ/view)
+- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1WT7ERnNFGBOGkZnSpiDlBtTaFqcWRAlH/view?usp=drive_link)
 
 - 🌱 I’m currently learning **DSA,Flutter,etc...**
 
