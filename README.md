@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/pavangowdats6" target="blank"><img src="https://img.shields.io/twitter/follow/pavangowdats6?logo=twitter&style=for-the-badge" alt="pavangowdats6" /></a> </p>
 
-- 🔭 I’m currently working on **Random_Number_Generator**
+- 🔭 I’m currently working on **Application of Computers**
+
+- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1cqQxCZ8R79Ana1q__tD0HKBmPm72UKmZ/view)
 
 - 🌱 I’m currently learning **DSA,Flutter,etc...**
 
