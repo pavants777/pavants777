@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pavangowdats01@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavants777&show_icons=true&locale=en&layout=compact" alt="pavants777" /></p>
+<h3 align="left">GitHub Stats:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavants777&show_icons=true&locale=en" alt="pavants777" /></p>
 
