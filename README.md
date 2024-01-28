@@ -23,8 +23,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavants777&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-# Connect with me:
+# Connect with me :
 <div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"  alt="https://www.linkedin.com/in/pavan-gowda-t-s-84684424b/" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
 <p align="left">
 <a href="https://dev.to/https://dev.to/pavants777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/pavants777" height="30" width="40" /></a>
 <a href="https://twitter.com/pavangowdats6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pavangowdats6" height="30" width="40" /></a>
