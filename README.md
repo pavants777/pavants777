@@ -18,9 +18,21 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavants777" alt="pavants777" /></a> </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pavants777&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pavants777&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavants777&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<summary><b>⚙️ GitHub Analytics</b></summary><br>
+  <div align="center">
+    <!-- Graph of Commits -->
+    <img align="center" height="155em"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavants777&theme=github_dark" alt="Graph of Commits" />
+    <!-- Repositories per language -->
+    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pavants777&theme=github_dark" alt="Top Languages" />
+    <!-- GitHub stats -->
+    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavants777&theme=github_dark" alt="GitHub Stats" />
+      <!-- Repositories per language -->
+    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pavants777&theme=github_dark" alt="Most Commit Languages" />
+    <!-- Histogram of Commits -->
+    <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pavants777&theme=github_dark" alt="Histogram of Commits" /></br>
+  </div>
 
 
 # Connect with me :
