@@ -15,8 +15,6 @@
 
 <p align="left"> <a href="https://twitter.com/pavangowdats6" target="blank"><img src="https://img.shields.io/twitter/follow/pavangowdats6?logo=twitter&style=for-the-badge" alt="pavangowdats6" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavants777" alt="pavants777" /></a> </p>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pavants777&theme=dark&hide_border=false)<br/>
 
