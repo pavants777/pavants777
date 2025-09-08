@@ -18,20 +18,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pavants777&theme=dark&hide_border=false)<br/>
 
-<summary><b>⚙️ GitHub Analytics</b></summary><br>
-  <div align="center">
-    <!-- Graph of Commits -->
-    <img align="center" height="155em"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavants777&theme=github_dark" alt="Graph of Commits" />
-    <!-- Repositories per language -->
-    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pavants777&theme=github_dark" alt="Top Languages" />
-    <!-- GitHub stats -->
-    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavants777&theme=github_dark" alt="GitHub Stats" />
-      <!-- Repositories per language -->
-    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pavants777&theme=github_dark" alt="Most Commit Languages" />
-    <!-- Histogram of Commits -->
-    <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pavants777&theme=github_dark" alt="Histogram of Commits" /></br>
-  </div>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
