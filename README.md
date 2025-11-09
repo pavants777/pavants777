@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Application of Computers**
 
-- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1Qwa2hRo-_jAnlNZhWQFZjB3aiQV50OhI/view?usp=sharing)
+- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1dscUPXlWMm6_CrkWXge1UEjubOkwVSBX/view?usp=drive_link)
 
 - 🌱 I’m currently learning **DSA,Flutter,etc...**
 
